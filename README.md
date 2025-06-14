@@ -1,16 +1,19 @@
-# quotes
 
-A new Flutter project.
 
-## Getting Started
+# 🌸 WhisperWords
 
-This project is a starting point for a Flutter application.
+WhisperWords is a cozy, pastel-themed Flutter app that shows you inspirational quotes and lets you save your favorites. Perfect for when you need a little spark of motivation throughout your day! ✨
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🌼 Get a fresh motivational quote each time you open or refresh
+- 💖 Add quotes to your favorites
+- 📚 See and manage all your favorite quotes
+- 🕊️ Cozy, calm UI with soft colors and gentle typography
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- **Flutter**
+- **Dart**
+- `shared_preferences` for saving favorites locally
+- `http` for fetching quotes from [zenquotes.io](https://zenquotes.io)
